@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Libertinus+Math&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin : 8px 0px;
+}
+
+.row input {
+    width: 290px;
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
